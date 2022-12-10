@@ -1,0 +1,16 @@
+{
+  "name": "rjl-cli-doc",
+  "version": "1.0.0",
+  "description": "任家立项目脚手架模板",
+  "main": "index.js",
+  "author": "任家立",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs --host --port 8080",
+    "build": "vitepress build docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.30",
+    "vue": "^3.2.45"
+  }
+}

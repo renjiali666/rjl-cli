@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 立即使用
-      link: /guide/getting-started
+      link: /start/
     - theme: alt
       text: 跳转到 GitHub
       link: https://github.com/renjiali666
